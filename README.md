@@ -21,6 +21,10 @@ Take control of your finances without handing over your data. This lightweight t
 - **JavaScript (ES6+):** Core logic and local data management.
 - **[jsPDF](https://github.com/parallax/jsPDF) & [html2canvas](https://html2canvas.hertzen.com/):** For generating high-quality PDF reports.
 
+## 🎥 Showcase
+
+![Finance Management Demo](Finance%20management.gif)
+
 ## 📦 How to Use
 
 1.  **Download:** Clone this repository or simply download the `Finance Manage.html` file.
